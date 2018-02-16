@@ -1,0 +1,16 @@
+ body {
+	text-align: center;
+}
+
+ input[type=button] {
+	border: none;
+}
+
+input[type=submit] {
+	border: none;
+}
+
+form {
+	display: inline-block;
+	border:solid 1px #000000;
+}
